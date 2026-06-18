@@ -1,3 +1,9 @@
-Privacy Policy for Canuck Deals Android app.
+Privacy Policy
 
-Canuck Deals Android app does not collect any user data of any kind
+Information Collection:
+
+We do not collect any personally identifiable information about you.
+
+Usage of Information:
+
+Since we do not collect any personal information, we do not use, store, or disclose any information about you.
